@@ -59,12 +59,12 @@
 }
 
 .main-section {
-    padding-left: 35px;
+    padding-top: 48px;
 }
 
 .input-img {
     top: 20px;
-    left: 20px;
+    left: 10px;
     position: absolute;
     z-index: 101;
 }
